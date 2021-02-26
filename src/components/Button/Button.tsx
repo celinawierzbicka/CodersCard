@@ -1,7 +1,10 @@
 import React from 'react';
 import { Button as MuiButton, ButtonProps as MuiButtonProps, makeStyles } from '@material-ui/core';
 
-export type ButtonProps = MuiButtonProps;
+export type ButtonProps = MuiButtonProps & {
+  rel?: string;
+  target?: string;
+};
 
 const useStyles = makeStyles((theme) => ({
   button: {
@@ -17,3 +20,10 @@ export const Button = (props: ButtonProps) => {
 
   return <MuiButton className={classes.button} {...props} />;
 };
+
+const defaultButtonProps: ButtonProps = {
+  rel: 'noopener noreferrer',
+  target: '_blank',
+};
+
+Button.defaultProps = defaultButtonProps;
