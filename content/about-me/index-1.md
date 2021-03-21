@@ -1,5 +1,5 @@
 ---
-aboutPageTitle: null
+aboutPageTitle: About
 aboutPageDescription: null
 aboutPageImage: null
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
