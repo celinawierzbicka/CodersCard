@@ -1,17 +1,17 @@
 ---
-firstName: Jonathan
-lastName: Harwood
-avatar: profile.jpg
-position: Fullstack developer
-phone: "123123123"
-email: jonathan.harwood@gmail.com
+firstName: Celina
+lastName: Wierzbicka
+avatar: cw.jpg
+position: Frontend developer
+phone: ""
+email: celinawierzbicka@gmail.com
 city: Wroclaw
 country: Poland
 isFreelancer: true
-cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
+cv: https://drive.google.com/file/d/1_THMV9OnItuSCsZ_Ol-8St8fO1QIcVS3/view?usp=sharing
 socialMedia:
-  twitter: https://twitter.com/
-  github: https://github.com/
-  instagram: https://www.instagram.com/
-  facebook: https://www.facebook.com/
+  twitter: ""
+  github: https://github.com/celinawierzbicka
+  instagram: ""
+  facebook: ""
 ---
