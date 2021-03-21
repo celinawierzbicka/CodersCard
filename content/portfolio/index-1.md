@@ -26,10 +26,10 @@ projects:
       - technologyName: TypeScript
       - technologyName: Material-UI
       - technologyName: GraphQL
-    projectDescription: "Web app for[ Mali Wspaniali
-      Organization](http://mali-wspaniali.pl/) used for the management and
-      tracking of all activities including: physical activity test result and
-      progress tracking, management of kindergartens, kind and instructors."
+    projectDescription: "Web app for Mali Wspaniali Organization used for the
+      management and tracking of all activities including: physical activity
+      test result and progress tracking, management of kindergartens, kind and
+      instructors."
     projectName: Mali Wspaniali
     projectCode: ""
     projectApp: ""
