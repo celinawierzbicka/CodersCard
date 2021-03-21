@@ -1,7 +1,7 @@
 ---
-aboutPageTitle:
-aboutPageDescription:
-aboutPageImage:
+aboutPageTitle: null
+aboutPageDescription: null
+aboutPageImage: null
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
   iaculis ultricies eros, ac iaculis eros maximus nec. Phasellus vitae mi felis.
   Curabitur iaculis nunc laoreet eleifend tincidunt. Aliquam nec lectus varius,
@@ -16,56 +16,53 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
   aliquam.
 socialMedia:
   technologies:
+    - technologyName: JavaScript (ES9)
+      technologyValue: 4
+    - technologyName: React.js
+      technologyValue: 4
+    - technologyName: Redux
+      technologyValue: 4
+    - technologyName: Vue.js
+      technologyValue: 3
+    - technologyName: TypeScript
+      technologyValue: 4
     - technologyName: HTML
       technologyValue: 5
     - technologyName: CSS
       technologyValue: 5
-    - technologyName: JavaScript (ES9)
-      technologyValue: 4
     - technologyName: SASS
       technologyValue: 3
-    - technologyName: React.js
-      technologyValue: 5
-    - technologyName: Redux
-      technologyValue: 3
-    - technologyName: Storybook
-      technologyValue: 2
-    - technologyName: React Testing Library
-      technologyValue: 2
+    - technologyName: GeaphQL
+      technologyValue: 4
     - technologyName: Gatsby
-      technologyValue: 2
+      technologyValue: 3
+    - technologyName: React Testing Library
+      technologyValue: 3
     - technologyName: Apollo Client
       technologyValue: 3
-    - technologyName: Redux Saga
-      technologyValue: 1
     - technologyName: Next.js
-      technologyValue: 2
+      technologyValue: 3
+    - technologyName: Storybook
+      technologyValue: 4
+    - technologyName: Styled components
+      technologyValue: 5
+    - technologyName: Material-UI
+      technologyValue: 5
+    - technologyName: Tailwind CSS
+      technologyValue: 3
   tools:
     - toolName: Git
-      toolValue: 2
+      toolValue: 4
     - toolName: GitHub
-      toolValue: 3
+      toolValue: 4
     - toolName: JIRA
-      toolValue: 1
+      toolValue: 4
     - toolName: Trello
-      toolValue: 2
+      toolValue: 4
     - toolName: Figma
-      toolValue: 5
+      toolValue: 4
     - toolName: Zeplin
       toolValue: 4
-  otherSkills:
-    - otherSkillName: Czytanie
-      otherSkillValue: 2
-    - otherSkillName: Pisanie
-      otherSkillValue: 1
-testimonials: 
-  - testimonialText: testimonialText
-    testimonialName: testimonialName
-    testimonialJob: testimonialJob
-    testimonialImage: GabeMcdonalid.png
-
-  - testimonialText: testimonialText
-    testimonialName: testimonialName
-    testimonialJob: testimonialJob
-    testimonialImage: GabeMcdonalid.png
+  otherSkills: []
+testimonials: []
 ---
