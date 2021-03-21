@@ -10,6 +10,12 @@ workExperience:
     jobDescription: Self-employed frontend developer. Developing web applications
       using React (with hooks), Redux, TypeScript, JavaScript, Vue.js, REST API,
       GraphQL.
+  - startJobDate: 2020-07-01T13:37:15.340Z
+    finishJobDate: 2021-03-21T14:37:33.618Z
+    jobTitle: Frontend developer
+    companyName: CodersCrew
+    jobDescription: Contributing to open-source and non-profit projects. Involved in
+      CodersCard and Mali Wspaniali projects.
   - startJobDate: 2020-07-01T19:09:54.359Z
     finishJobDate: 2020-09-30T19:09:54.371Z
     jobTitle: " Frontend Developer"
@@ -22,12 +28,6 @@ workExperience:
     companyName: WebTower
     jobDescription: Development of e-commerce platform. Writing JavaScript (React
       and Vue.js) code. New features development
-  - startJobDate: 2020-07-01T13:37:15.340Z
-    finishJobDate: 2021-03-21T14:37:33.618Z
-    jobTitle: Frontend developer
-    companyName: CodersCrew
-    jobDescription: Contributing to open-source and non-profit projects. Involved in
-      CodersCard and Mali Wspaniali projects.
 education:
   - startSchoolDate: 2012-11-01T14:35:14.297Z
     finishSchoolDate: 2017-04-17T13:35:14.310Z
