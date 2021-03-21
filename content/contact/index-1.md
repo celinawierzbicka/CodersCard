@@ -1,5 +1,5 @@
 ---
-contactPageTitle:
-contactPageDescription:
-contactPageImage:
+contactPageTitle: Contact
+contactPageDescription: null
+contactPageImage: null
 ---
