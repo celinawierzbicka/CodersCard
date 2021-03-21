@@ -1,5 +1,5 @@
 ---
-resumePageTitle: null
+resumePageTitle: Resume
 resumePageDescription: null
 resumePageImage: null
 workExperience:
