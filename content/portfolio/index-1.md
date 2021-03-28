@@ -15,7 +15,8 @@ projects:
     projectCode: https://github.com/CodersCrew/CodersCard
     projectApp: ""
     projectPreviewImage: coders-card.png
-    projectRole: Developing components and page views.
+    projectRole: Developing components and page views. This page is build using
+      CodersCard template.
     projectMockups: ""
     projectStartDate: 2020-07-01T10:45:41.756Z
     projectFinishDate: 2020-11-30T11:45:41.772Z
@@ -34,8 +35,9 @@ projects:
     projectCode: ""
     projectApp: ""
     projectPreviewImage: mali-wspaniali.jpg
-    projectRole: Working on new page views and functionalites, fixing bugs, code
-      review of other team members work.
+    projectRole: I joined the project in December 2020. My main tasks were to
+      implement new page views and functionalites, fix bugs and do code review
+      of other team members work.
     projectMockups: ""
     projectStartDate: 2020-01-01T11:45:41.756Z
     projectFinishDate: 2021-03-31T09:45:41.772Z
