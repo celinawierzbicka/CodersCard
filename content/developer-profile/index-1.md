@@ -8,7 +8,7 @@ email: celinawierzbicka@gmail.com
 city: Wrocław
 country: Poland
 isFreelancer: true
-cv: https://drive.google.com/file/d/1_THMV9OnItuSCsZ_Ol-8St8fO1QIcVS3/view?usp=sharing
+cv: https://drive.google.com/file/d/1ahff7KtNe_FP7r9VzpgwyeJuSgJim2OD/view?usp=sharing
 socialMedia:
   twitter: ""
   github: https://github.com/celinawierzbicka
